@@ -4,7 +4,7 @@ public class Beec1009 {
     public static void main(String[] args) {
         Scanner reader = new Scanner(System.in);
 
-        String employeeName = reader.next(); // считываем, но не используем
+        String employeeName = reader.next();
         double fixed = reader.nextDouble();
         double sold = reader.nextDouble();
 
